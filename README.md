@@ -15,3 +15,8 @@
 1. git status
     * 查看当前项目文件夹有哪些文件被修改
 ·   **
+
+# 前端三大块
+* html
+* css
+* javascript ，简称 js。
